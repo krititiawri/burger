@@ -49,6 +49,7 @@ li {
 	border-color: white;
 	position: relative;
 	top: -130px;
+	color: white;
 }
 .tobeDevoured{
 	background-image: url(../images/burger5.jpeg);
@@ -56,4 +57,6 @@ li {
 	border-color: white;
 	position: relative;
 	top: -100px;
+		color: white;
+
 }
